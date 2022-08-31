@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mmilunicmobile
-- 👀 I’m interested in mathematics and computer science. 
+- 👀 I’m interested in mathematics, computer science, and your mo. 
 - 🌱 I’m currently learning Java, general coding stuff, and AP Statistics.
 - 💞️ I’m looking to collaborate on ... stuff? That doesn't serve much of a good purpose but is cool?
 - 📫 You can reach me at an undisclosed email.
