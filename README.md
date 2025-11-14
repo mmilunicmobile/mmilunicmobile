@@ -15,16 +15,12 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>🤖 RoboPiLink</h3>
-      <p><strong>Tech Stack:</strong>
-       <code>Java</code>
-       <code>Python</code>
-       <code>WPILib</code>
-       <code>Raspberry Pi</code>
-      </p>
-      <p>This project provides a lightweight platform for teaching FRC-style robot programming without requiring a full FRC control system. Instead of deploying code directly to the Raspberry Pi, this system runs the user’s program locally and streams commands to the Pi in real time.</p>
+      <h3>2539 FRC Robotics</h3>
+      <p><strong>Tech Stack:</strong> <code>Java</code> <code>WPILib</code> <code>GitHub Actions</code></p>
+      <p>This project is the robot code I led development on for Team 2539's FRC robot for 2025. It involves real-time control and sensor integration for competitive robotics, along with a novel confidence-based localization approach I developed.</p>
       <p>
-        <a href="https://github.com/mmilunicmobile/RoboPiLink">🔗 Git Repository</a>
+        <a href="https://github.com/FRC2539/javabot-2025">🔗 Git Repository</a> •
+        <a href="https://www.youtube.com/watch?v=FCxRQKQ7LGM">▶️ Watch the Robot!</a>
       </p>
     </td>
     <td width="50%">
@@ -46,12 +42,16 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>2539 FRC Robotics</h3>
-      <p><strong>Tech Stack:</strong> <code>Java</code> <code>WPILib</code> <code>GitHub Actions</code></p>
-      <p>This project is the robot code I led development on for Team 2539's FRC robot for 2025. It involves real-time control and sensor integration for competitive robotics, along with a novel confidence-based localization approach I developed.</p>
+      <h3>🤖 RoboPiLink</h3>
+      <p><strong>Tech Stack:</strong>
+       <code>Java</code>
+       <code>Python</code>
+       <code>WPILib</code>
+       <code>Raspberry Pi</code>
+      </p>
+      <p>This project provides a lightweight platform for teaching FRC-style robot programming without requiring a full FRC control system. Instead of deploying code directly to the Raspberry Pi, this system runs the user's program locally and streams commands to the Pi in real time.</p>
       <p>
-        <a href="https://github.com/FRC2539/javabot-2025">🔗 Git Repository</a> •
-        <a href="https://www.youtube.com/watch?v=FCxRQKQ7LGM">▶️ Watch the Robot!</a>
+        <a href="https://github.com/mmilunicmobile/RoboPiLink">🔗 Git Repository</a>
       </p>
     </td>
     <td width="50%">
