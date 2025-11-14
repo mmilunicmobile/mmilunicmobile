@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hi, I'm Matthew Milunic!</h1>
   <p>
-    <em>CS Freshman @ Carnegie Mellon University | Mathematics & Music Enthusiast</em>
+    <em>Computer Science Freshman @ Carnegie Mellon University | Mathematics & Music Enthusiast</em>
   </p>
   
   [![Email](https://img.shields.io/badge/Email-mmilunicmobile%2Bghstuff%40gmail.com-red?style=flat-square&logo=gmail)](mailto:mmilunicmobile+ghstuff@gmail.com)
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Projects I'm Proud Of
+## Projects I'm Proud Of
 
 <table>
   <tr>
@@ -46,12 +46,12 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>🎮 Project Name 3</h3>
-      <p><strong>Tech Stack:</strong> <code>Technology Here</code></p>
-      <p>What makes this project exciting? Maybe it's your first dive into a new framework, or it combines multiple interests like math and music!</p>
+      <h3>2539 FRC Robotics</h3>
+      <p><strong>Tech Stack:</strong> <code>Java</code> <code>WPILib</code> <code>GitHub Actions</code></p>
+      <p>This project is the robot code I led development on for Team 2539's FRC robot for 2025. It involves real-time control and sensor integration for competitive robotics, along with a novel confidence-based localization approach I developed.</p>
       <p>
-        <a href="https://github.com/yourusername/repo3">🔗 Repository</a> •
-        <a href="https://your-demo-link.com">🌐 Live Demo</a>
+        <a href="https://github.com/FRC2539/javabot-2025">🔗 Git Repository</a> •
+        <a href="https://www.youtube.com/watch?v=FCxRQKQ7LGM">▶️ Watch the Robot!</a>
       </p>
     </td>
     <td width="50%">
@@ -65,19 +65,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## 🛠️ Cool Tools & Experiments
-
-### 💡 Quick Links to Interesting Work
-- **[Repository Name](https://github.com/yourusername/repo)** - Short description of why this is cool
-- **[Another Project](https://github.com/yourusername/another)** - What makes this one special
-- **[Experiment/Tool](https://github.com/yourusername/tool)** - Maybe a utility you built or an interesting algorithm
-
-### 🎯 Current Focus
-- Learning about: 
-- Working on: 
 
 ---
 
