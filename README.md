@@ -5,6 +5,7 @@
   </p>
   
   [![Email](https://img.shields.io/badge/Email-mmilunicmobile%2Bghstuff%40gmail.com-red?style=flat-square&logo=gmail)](mailto:mmilunicmobile+ghstuff@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matthew%20Milunic-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/matthew-milunic/)
   [![Instagram](https://img.shields.io/badge/Instagram-@mathumilunic-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/mathumilunic)
 </div>
 
