@@ -55,12 +55,11 @@
       </p>
     </td>
     <td width="50%">
-      <h3>📊 Project Name 4</h3>
-      <p><strong>Tech Stack:</strong> <code>Technology Here</code></p>
-      <p>Describe what you learned from this project or what problem it solves. Perfect place to mention any interesting algorithms or techniques!</p>
+      <h3>🔒 LockedIn</h3>
+      <p><strong>Tech Stack:</strong> <code>HTML</code> <code>Dart</code> <code>Python</code></p>
+      <p>I created LockedIn as part of a hackathon allowing people to challenge their friends with a friendly competition to see who is "locked in", and who is "locked out". It allows two people to sync up their phones for a study session, gamifying studying.</p>
       <p>
-        <a href="https://github.com/yourusername/repo4">🔗 Repository</a> •
-        <a href="https://your-demo-link.com">🌐 Live Demo</a>
+        <a href="https://github.com/mmilunicmobile/the-quack-team-hackcmu-2025">🔗 Git Repository</a>
       </p>
     </td>
   </tr>
